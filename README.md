@@ -37,7 +37,7 @@ Note: do the following steps in the root directory of the project.
 #### Run Docker Compose
 We have a docker-compose.yml file, so we can use Docker Compose to build and run the project with a single command:
 ```bash
-docker-compose up --build
+sudo docker-compose up --build
 ```
 
 ### Using Docker
