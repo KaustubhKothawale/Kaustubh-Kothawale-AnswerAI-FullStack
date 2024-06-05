@@ -1,0 +1,10 @@
+.register-input-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+.register-error-messages{
+    color: red;
+    margin: 10px;
+    font-size: 9px;
+}
